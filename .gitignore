@@ -1,11 +1,3 @@
-# Remove unnecessary directories for Labyrinth
-.github/
-CMake/
-deps/
-docs/
-examps/
-test/
-
 # The canonical out-of-tree build subdirectory
 build
 
