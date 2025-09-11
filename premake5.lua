@@ -38,6 +38,7 @@ project "glfw"
 			"src/posix_time.c",
 			"src/posix_thread.c",
 			"src/posix_module.c",
+			"src/posix_poll.c",
 			"src/xkb_unicode.h",
 			"src/x11_init.c",
 			"src/x11_monitor.c",
